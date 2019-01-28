@@ -1,0 +1,11 @@
+{
+    "projectName": "ColorView2",
+    "projectPath": "/Users/markmota/Desktop/marduk/ColorView2",
+    "defaultEditor": "code",
+    "frontendHandler": {
+        "ios": "/usr/local/lib/node_modules/@aws-amplify/cli/node_modules/amplify-frontend-ios"
+    },
+    "providers": {
+        "awscloudformation": "/usr/local/lib/node_modules/@aws-amplify/cli/node_modules/amplify-provider-awscloudformation"
+    }
+}

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='rendered' executeOnSourceChanges='false'>
+    <pages>
+        <page name='Introducción'/>
+        <page name='Problema de mascotas'/>
+        <page name='Problema de mascotas (resumen)'/>
+        <page name='Nomenclatura'/>
+        <page name='Completado automático'/>
+        <page name='Identificadores'/>
+        <page name='Nombres útiles'/>
+        <page name='Jerga de programadores'/>
+        <page name='Resumen'/>
+        <page name='10-Ejercicio Espectáculo'/>
+        <page name='11-Ejercicio Lotería'/>
+        <page name='12-Ejercicio iPhone'/>
+        <page name='13-Ejercicio Mañana'/>
+        <page name='14-Ejercicio Asignar nombres'/>
+    </pages>
+</playground>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='rendered'>
+    <pages>
+        <page name='Introducción'/>
+        <page name='Verdadero y falso'/>
+        <page name='Igualdad'/>
+        <page name='Más comparaciones'/>
+        <page name='Instrucciones condicionales'/>
+        <page name='Instrucciones condicionales “else”'/>
+        <page name='Instrucciones condicionales “else if”'/>
+        <page name='Funciones y decisiones'/>
+        <page name='Operador de resto'/>
+        <page name='Resumen'/>
+        <page name='Ejercicio Práctica de las instrucciones condicionales “if”'/>
+        <page name='Ejercicio Práctica de las instrucciones condicionales “else”'/>
+        <page name='Ejercicio Años bisiestos'/>
+    </pages>
+</playground>

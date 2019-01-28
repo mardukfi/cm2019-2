@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='osx' auto-termination-delay='21' display-mode='rendered'>
+    <pages>
+        <page name='Introducción'/>
+        <page name='Live Views (Vistas en vivo)'/>
+        <page name='Escuela de baile'/>
+        <page name='Las API'/>
+        <page name='Rutinas'/>
+        <page name='Firmar tu trabajo'/>
+        <page name='Compartir el boogie'/>
+        <page name='Algoritmos'/>
+        <page name='Resumen'/>
+        <page name='Taller de boogie 1'/>
+        <page name='Taller de boogie 2'/>
+        <page name='Taller de boogie 3'/>
+        <page name='Taller de boogie 4'/>
+    </pages>
+</playground>

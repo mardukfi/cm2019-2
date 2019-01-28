@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='rendered'>
+    <pages>
+        <page name='Listas'/>
+        <page name='Literales de arreglo'/>
+        <page name='Índices'/>
+        <page name='Recuento'/>
+        <page name='Tipos'/>
+        <page name='Procesar arreglos'/>
+        <page name='Ciclos'/>
+        <page name='Arreglos mutables'/>
+        <page name='Agregar elementos'/>
+        <page name='Quitar elementos'/>
+        <page name='Reemplazar elementos'/>
+        <page name='Resumen'/>
+        <page name='Ejercicio Recuento'/>
+        <page name='Ejercicio Anfitrión del karaoke'/>
+        <page name='Ejercicio Contar votos'/>
+        <page name='Ejercicio Metas'/>
+        <page name='Ejercicio Mostrar mensajes'/>
+    </pages>
+</playground>

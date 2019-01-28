@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='rendered'>
+    <pages>
+        <page name='Introducción'/>
+        <page name='De lo específico a lo general'/>
+        <page name='Tu comida favorita'/>
+        <page name='Especificar más valores'/>
+        <page name='Otros objetos favoritos'/>
+        <page name='Recuperar valores'/>
+        <page name='Devolver valores'/>
+        <page name='Clases de función'/>
+        <page name='Componentes fundamentales'/>
+        <page name='Nomenclatura'/>
+        <page name='Nombres de parámetros y etiquetas de argumento'/>
+        <page name='El argumento sin nombre'/>
+        <page name='Resumen'/>
+        <page name='Ejercicio Convertir sustantivos en verbos'/>
+        <page name='Ejercicio Usar valores de devolución'/>
+        <page name='Ejercicio Etiqueta de argumento'/>
+        <page name='Ejercicio Sin etiqueta de argumento'/>
+    </pages>
+</playground>

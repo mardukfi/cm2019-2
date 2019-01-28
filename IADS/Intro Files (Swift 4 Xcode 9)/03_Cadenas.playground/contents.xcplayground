@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='rendered'>
+    <pages>
+        <page name='Introducción'/>
+        <page name='Personajes'/>
+        <page name='Definir cadenas'/>
+        <page name='Unicode'/>
+        <page name='Combinar cadenas'/>
+        <page name='Completar espacios en blanco'/>
+        <page name='Interpolación de cadenas'/>
+        <page name='Ver resultados'/>
+        <page name='Más que cadenas'/>
+        <page name='El gran escape'/>
+        <page name='Secuencias de escape'/>
+        <page name='Resumen'/>
+        <page name='Ejercicio Crear una lista'/>
+        <page name='Ejercicio Un restaurante'/>
+        <page name='Ejercicio ¡Jugar, luchar y ganar!'/>
+        <page name='Ejercicio Mostrar valores'/>
+    </pages>
+</playground>
